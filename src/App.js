@@ -1,6 +1,6 @@
-import Home from "../src/components/Home/home";
-import CartContent from "../src/components/CartContent/CartContent";
-import DataProvider from "../src/components/Context/DataContext";
+import Home from "../src/component/Home/home";
+import CartContent from "../src/component/CartConent/CartContents";
+import DataProvider from "../src/component/Context/DataContext";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
